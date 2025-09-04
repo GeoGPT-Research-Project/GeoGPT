@@ -22,6 +22,12 @@
   <br>
 </div>
 
+## News
+
+- **2025.07.11 |** GeoGPT was showcased at the AI for Good Global Summit 2025 and won the Outstanding Innovation for Impact Use Case Award🏆. Check out the full story here: [News](https://geogpt.zero2x.org/newsDetail?newsUuid=a8fb5b7c-ebe1-4356-a1bb-4e3e5827ad81).
+- **2025.06.03 |** We released GeoGPT-RAG, a retrieval-augmented generation system designed to enhance the performance of GeoGPT. Check out the [GitHub page](https://github.com/GeoGPT-Research-Project/GeoGPT-RAG) for more details!
+- **2025.04.27 |** GeoGPT is now publicly available at https://geogpt.zero2x.org/. Go try it out and share your thoughts with us📝!
+  
 ## 1. Introduction
 
 The GeoGPT collection of models are large language models for advancing geosciences research. Built upon state-of-the-art foundation models, GeoGPT models offer enhanced capabilities in specialized areas of geoscience through a series of post-training processes, including CPT, SFT, and DPO.
