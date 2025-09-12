@@ -24,6 +24,7 @@
 
 ## News
 
+- **2025.09.12 |** We released the GeoRAG-QA dataset, a benchmark test set for geoscience information retrieval. Dive into the full details in the [Dataset card](https://huggingface.co/datasets/GeoGPT-Research-Project/GeoRAG-QA)↗!
 - **2025.09.05 |** We released the GeoGPT-QA dataset, a large-scale synthetic question–answer corpus developed to support supervised fine-tuning of geoscience foundation models. Explore the full details in the [Dataset card](https://huggingface.co/datasets/GeoGPT-Research-Project/GeoGPT-QA)↗!
 - **2025.07.11 |** GeoGPT was showcased at the AI for Good Global Summit 2025 and won the Outstanding Innovation for Impact Use Case Award🏆. Check out the full story here: [News](https://geogpt.zero2x.org/newsDetail?newsUuid=a8fb5b7c-ebe1-4356-a1bb-4e3e5827ad81).
 - **2025.06.03 |** We released GeoGPT-RAG, a retrieval-augmented generation system designed to enhance the performance of GeoGPT. Check out the [GitHub page](https://github.com/GeoGPT-Research-Project/GeoGPT-RAG) for more details!
