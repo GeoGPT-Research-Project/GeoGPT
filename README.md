@@ -24,6 +24,8 @@
 
 ## News
 
+- **2025.12.02 |** We released the GeoGPT-CoT-QA dataset, a comprehensive chain-of-thought question-answering dataset for geoscience. Explore the full details in the [Dataset card](https://huggingface.co/datasets/GeoGPT-Research-Project/GeoGPT-CoT-QA)↗!
+- **2025.11.09 |** GeoGPT was featured as one of the global responsible AI standard practice cases in the [Global Artificial Intelligence Standards Development Report](https://www.wicinternet.org/2025-11/07/c_1137525.htm) released at the World Internet Conference.
 - **2025.09.12 |** We released the GeoRAG-QA dataset, a benchmark test set for geoscience information retrieval. Dive into the full details in the [Dataset card](https://huggingface.co/datasets/GeoGPT-Research-Project/GeoRAG-QA)↗!
 - **2025.09.05 |** We released the GeoGPT-QA dataset, a large-scale synthetic question–answer corpus developed to support supervised fine-tuning of geoscience foundation models. Explore the full details in the [Dataset card](https://huggingface.co/datasets/GeoGPT-Research-Project/GeoGPT-QA)↗!
 - **2025.07.11 |** GeoGPT was showcased at the AI for Good Global Summit 2025 and won the Outstanding Innovation for Impact Use Case Award🏆. Check out the full story here: [News](https://geogpt.zero2x.org/newsDetail?newsUuid=a8fb5b7c-ebe1-4356-a1bb-4e3e5827ad81).
