@@ -65,6 +65,8 @@ The GeoGPT models are trained in three stages:
 
 - Human Preference Alignment: This stage uses the Direct Preference Optimization (DPO) with preference data labeled by large language models to align model's responses with human expectations and preferences.
 
+We provide CPT and SFT stage training scripts in `training_scripts` directory.
+
 
 ## 3. Model Downloads
 
