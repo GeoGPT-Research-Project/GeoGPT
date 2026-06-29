@@ -327,7 +327,7 @@ This dataset is primarily intended to support geoscience research by serving as 
 <td>Environmental Systems Research   </td><td><a href="https://environmentalsystemsresearch.springeropen.com/submission-guidelines/copyright" target="_blank">🔗Link</a></td>
 </tr>
 <tr>
-<td rowspan="74">Elseivier</td><td>Ecological Engineering </td><td rowspan="74"><a href="https://www.elsevier.com/about/policies-and-standards/open-access-licenses" target="_blank">🔗Link</a></td><td rowspan="74">CC BY, CC BY-NC, CC BY-NC-ND, etc</td><td rowspan="74">GeoGPT only uses papers licensed under the CC BY or CC BY-NC license. We verify the license of EACH paper by checking the "Rights and permissions" section on its respective webpage. Any paper not licensed under these agreements is excluded from training.</td>
+<td rowspan="74">Elsevier</td><td>Ecological Engineering </td><td rowspan="74"><a href="https://www.elsevier.com/about/policies-and-standards/open-access-licenses" target="_blank">🔗Link</a></td><td rowspan="74">CC BY, CC BY-NC, CC BY-NC-ND, etc.</td><td rowspan="74">GeoGPT only uses papers licensed under the CC BY or CC BY-NC license. We verify the license of EACH paper by checking the "Rights and permissions" section on its respective webpage. Any paper not licensed under these agreements is excluded from training.</td>
 </tr>
 <tr>
 <td>Applied Computing and Geosciences </td>
@@ -576,7 +576,7 @@ This dataset is primarily intended to support geoscience research by serving as 
 <td colspan="2">Earth Prints  </td><td><a href="https://www.earth-prints.org/earth-prints/policies" target="_blank">🔗Link</a></td><td>CC</td><td>GeoGPT only uses papers licensed under the CC BY or CC BY-NC license. Any paper not licensed under these agreements is excluded from training.</td>
 </tr>
 <tr>
-<td colspan="2">Arxiv  </td><td><a href="https://info.arxiv.org/help/license/index.html" target="_blank">🔗Link</a></td><td>CC BY, CC BY-NC, CC BY-SA, CC BY-NC-SA, CC BY-NC-ND, CC Zero</td><td>GeoGPT only uses papers licensed under the CC BY or CC BY-NC license. Any paper not licensed under these agreements is excluded from training.</td>
+<td colspan="2">arXiv  </td><td><a href="https://info.arxiv.org/help/license/index.html" target="_blank">🔗Link</a></td><td>CC BY, CC BY-NC, CC BY-SA, CC BY-NC-SA, CC BY-NC-ND, CC Zero</td><td>GeoGPT only uses papers licensed under the CC BY or CC BY-NC license. Any paper not licensed under these agreements is excluded from training.</td>
 </tr>
 <tr>
 <td colspan="2">IntechOpen </td><td><a href="https://www.intechopen.com/page/copyright-policy" target="_blank">🔗Link</a></td><td>CC BY</td><td>GeoGPT only uses book chapters licensed under the CC BY license. Any book chapter not licensed under this agreement is excluded from training.</td>

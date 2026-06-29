@@ -48,14 +48,13 @@ This Code of Conduct also applies outside the project spaces when there is a rea
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior can be reported by contacting the project team at support.geogpt@zhejianglab.org. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. 
+Instances of abusive, harassing, or otherwise unacceptable behavior can be reported by contacting the project team at [support.geogpt@zhejianglab.org](mailto:support.geogpt@zhejianglab.org). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Enforcement Guidelines
 
-Project maintainers will follow these Guidelines (inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).) in determining the consequences for any action they deem in violation of this Code of Conduct:
+Project maintainers will follow these Guidelines (inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity)) in determining the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
@@ -89,6 +88,6 @@ The rights of final interpretation and modification of this Code of Conduct resi
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. 
